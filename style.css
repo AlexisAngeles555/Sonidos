@@ -1,0 +1,28 @@
+body
+{
+font-family: 'Special Elite', cursive;
+background: #5fea90;
+}
+
+.div_encabezado
+{
+background: rgb(213, 211, 211);
+color: #fa08fa;
+}
+
+.div_encabezado p{
+font-family: 'Roboto', sans-serif;
+color: rgb(12, 73, 241);
+/*esta propiedad aumenta el espacio entre cada letra.*/
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+
+}
+.div_principal button{
+font-family: 'Roboto', sans-serif;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
